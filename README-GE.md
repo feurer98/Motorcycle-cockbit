@@ -3,7 +3,7 @@ Development of a motorcycle cockbit. to replace the original. First attempt on a
 ___
 
 | Position | Anzahl | Was                                             | Bemerkungen       | Preis | Totall |
-|----------|--------|-------------------------------------------------|-------------------|-------|--------|
+|:----------:|:--------|:-------------------------------------------------|-------------------|-------|--------|
 | 1        | 1      | Verdin iMX8M Mini Quad 2GB Wi-Fi / Bluetooth IT | überdimensioniert | 132   | 132    |
 | 2        |        |                                                 |                   |       |        |
 | 3        |        |                                                 |                   |       |        |
